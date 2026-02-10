@@ -1,1 +1,0 @@
-ST20020G.26o | Warning : Your high-rate static dataset has been decimated to 30 seconds. For more information, please visit the <a href="https://webapp.csrs-scrs.nrcan-rncan.gc.ca/geod/tools-outils/ppp-info.php?locale=en">CSRS-PPP update page</a> ST20020G.26o | Warning : No Phase Centre Offset (PCO) calibrations could be found for Galileo signals, CSRS-PPP applied GPS PCOs.
