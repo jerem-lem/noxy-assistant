@@ -10,3 +10,12 @@ __pycache__/
 Thumbs.db
 .vscode/
 .idea/
+
+# Outputs / data
+*.pdf
+*.csv
+*.clk
+*.pos
+*.sum
+*.tro
+*.txt
