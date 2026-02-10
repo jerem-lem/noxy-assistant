@@ -19,3 +19,7 @@ Thumbs.db
 *.sum
 *.tro
 *.txt
+
+# Generated outputs
+outputs/
+
