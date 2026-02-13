@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="widget_title">Noxy</string>
+    <string name="widget_avatar_desc">Avatar de Noxy</string>
+    <string name="widget_default_subtext">Humeur : 🙂 Content | Partenaire : —</string>
+    <string name="widget_default_message">Noxy est prêt à t’aider 🚀</string>
+    <string name="widget_waiting_message">En attente d’un message 💌</string>
+</resources>
